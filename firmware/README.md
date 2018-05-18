@@ -2,6 +2,7 @@
 
 Change made to the Marlin configuration for AnetA8 
 
+## Printer Name and info
 change: 
 
 ```
@@ -9,6 +10,8 @@ change:
 #define CUSTOM_MACHINE_NAME "3D Maker"
 ```
 
+
+## Auto (Manual with LCP input) - Bed leveling
 uncomment : 
 ```
 #define AUTO_BED_LEVELING_BILINEAR
