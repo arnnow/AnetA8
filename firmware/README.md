@@ -1,6 +1,7 @@
-# AnetA8 Custom change
+# Anet A8 Custom change
 
-Change made to the Marlin configuration for AnetA8 
+Change made to the Marlin configuration for Anet A8   
+http://marlinfw.org
 
 ## Printer Name and info
 change: 
