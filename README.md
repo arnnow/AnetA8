@@ -47,6 +47,9 @@ This part distribute pressure on the front acrylic part surface and minimise wob
 https://www.youtube.com/watch?v=lH3gHLyIiec  
 https://www.thingiverse.com/thing:1430727  
 
+## Cable Chain
+search Cable chain anet a8 on thingiverse
+
 ## mosfet 
 https://3dprint.wiki/reprap/electronics/heatbed_mosfet  
 
