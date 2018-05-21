@@ -61,6 +61,9 @@ ATX PowerSuply :
 https://www.youtube.com/watch?v=SBhlHQbUaqs  
 https://www.youtube.com/watch?v=JSNngyl1ONM  
 
+### Alimentation switch
+https://www.youtube.com/watch?v=J0qnyGmxgN8
+
 ## ventilation extruder
 https://www.youtube.com/watch?v=09zWjMFJwT0  
 https://www.thingiverse.com/make:427275  
