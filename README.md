@@ -29,6 +29,9 @@ https://www.propwashed.com/anet-a8-build-guide-and-1st-print/
 
 # Anet A8 improvment :
 
+## structure
+remplacer les barre acier par des element plus leger ?
+
 ## Firmware 
 * [Firmware](firmware/README.md)
 
@@ -38,6 +41,7 @@ https://www.youtube.com/watch?v=R1VugOTOoGA
 
 ## AutoBedLeveling - BLTouch
 https://www.youtube.com/watch?v=WWDkZtWwd6I&index=1&list=PLlcMt_sdtxsCmJl5oZLiO3Ub6LN2GBwIe  
+https://www.thingiverse.com/thing:2091529
 
 ## Z Wobble 
 correct installation:  https://www.youtube.com/watch?v=T9vI6DqAcmo  
@@ -46,6 +50,9 @@ correct installation:  https://www.youtube.com/watch?v=T9vI6DqAcmo
 This part distribute pressure on the front acrylic part surface and minimise wobbling on Y axis.  
 https://www.youtube.com/watch?v=lH3gHLyIiec  
 https://www.thingiverse.com/thing:1430727  
+
+## Hotbe connector
+https://youtu.be/y9a_XefxBvw?t=361
 
 ## Cable Chain
 search Cable chain anet a8 on thingiverse
@@ -70,10 +77,19 @@ https://www.thingiverse.com/make:427275
 
 ## IKEA Lack Enclosure
 
+https://www.thingiverse.com/thing:1814763
+https://www.thingiverse.com/thing:2864118
+
 # Control from web interface with rasberry
 https://octoprint.org/  
 
 # to print: 
+T-Rex :
 https://www.thingiverse.com/thing:275091  
+Otto :
+http://www.instructables.com/id/Otto-Build-You-Own-Robot-in-Two-Hours/
+Robot Arm :
+https://www.thingiverse.com/thing:1454048
 
-
+# laque
+http://doc.3dmodularsystems.com/quelle-laque-a-cheveux-choisir-pour-ameliorer-ladhesion-des-pieces-sur-un-plateau-chauffant/
