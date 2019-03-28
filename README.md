@@ -56,6 +56,7 @@ https://youtu.be/y9a_XefxBvw?t=361
 
 ## Cable Chain
 search Cable chain anet a8 on thingiverse
+https://www.thingiverse.com/thing:2842159
 
 ## mosfet 
 https://3dprint.wiki/reprap/electronics/heatbed_mosfet  
