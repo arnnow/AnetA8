@@ -34,6 +34,10 @@ remplacer les barre acier par des element plus leger ?
 
 ## Firmware 
 * [Firmware](firmware/README.md)
+Updated with Marlin
+
+ADVANCE_PAUSE_FEATUR Enabled
+Add M600 to Gcode after "LAYER:XX" you want to change the filament
 
 ## Communicate with the printer board
 https://github.com/kliment/Printrun/blob/master/README.md  
