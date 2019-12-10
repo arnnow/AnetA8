@@ -99,15 +99,15 @@ https://www.thingiverse.com/thing:1454048
 # laque
 http://doc.3dmodularsystems.com/quelle-laque-a-cheveux-choisir-pour-ameliorer-ladhesion-des-pieces-sur-un-plateau-chauffant/
 
-## improvment
+# improvment
 
-Bowden Extruder connector : https://fr.aliexpress.com/item/32809884127.html? (PC4-M6)
-PTFE Tubing: https://fr.aliexpress.com/item/32811240720.html
-E3D V6 : https://fr.aliexpress.com/item/32844028127.html (12v PTFE)
-fiberglass belt : https://fr.aliexpress.com/item/32853559638.html
-3D Touch : https://fr.aliexpress.com/item/32832887426.html
+Bowden Extruder connector : https://fr.aliexpress.com/item/32809884127.html? (PC4-M6)  
+PTFE Tubing: https://fr.aliexpress.com/item/32811240720.html  
+E3D V6 : https://fr.aliexpress.com/item/32844028127.html (12v PTFE)  
+fiberglass belt : https://fr.aliexpress.com/item/32853559638.html  
+3D Touch : https://fr.aliexpress.com/item/32832887426.html  
 
-3D Touch & E3D v6 mount : https://www.thingiverse.com/thing:2193695
-Bowden Extruder mount : https://www.thingiverse.com/thing:2146021
-X Axis belt Tensioner : https://www.thingiverse.com/thing:1683070
+3D Touch & E3D v6 mount : https://www.thingiverse.com/thing:2193695  
+Bowden Extruder mount : https://www.thingiverse.com/thing:2146021  
+X Axis belt Tensioner : https://www.thingiverse.com/thing:1683070  
 
