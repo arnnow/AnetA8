@@ -111,3 +111,6 @@ fiberglass belt : https://fr.aliexpress.com/item/32853559638.html
 Bowden Extruder mount : https://www.thingiverse.com/thing:2146021  
 X Axis belt Tensioner : https://www.thingiverse.com/thing:1683070  
 
+## Cable Chain
+search Cable chain anet a8 on thingiverse
+https://www.thingiverse.com/thing:2115095
