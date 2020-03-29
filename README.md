@@ -110,6 +110,8 @@ fiberglass belt : https://fr.aliexpress.com/item/32853559638.html
 3D Touch & E3D v6 mount : https://www.thingiverse.com/thing:2193695  
 Bowden Extruder mount : https://www.thingiverse.com/thing:2146021  
 X Axis belt Tensioner : https://www.thingiverse.com/thing:1683070  
+Board Case: thingiverse.com/thing:2029528
+Mosfet Case: thingiverse.com/thing:2054199
 
 ## Cable Chain
 search Cable chain anet a8 on thingiverse
