@@ -920,7 +920,9 @@
 /**
  * The BLTouch probe uses a Hall effect sensor and emulates a servo.
  */
-//#define BLTOUCH
+// Arnaud, here to define BLTouch
+// SKR1.3 exemple: https://www.youtube.com/watch?v=5cSzFCv7K4Q
+// #define BLTOUCH
 
 /**
  * Touch-MI Probe by hotends.fr
